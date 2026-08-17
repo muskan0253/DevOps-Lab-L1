@@ -29,19 +29,21 @@ Docker & Jenkins.pdf
 
  
 3. Docker & Jenkins
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/039605f5-36de-4f87-82e6-c63544245c9d" />
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/327ace01-cab6-46e1-bc08-daeabdadfedb" />
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/ccb83cec-46d8-4d38-97e8-720cdadb2449" />
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/c78cf119-bafb-4342-82a6-d550486c7424" />
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/9b9555a2-80b9-4361-948a-3e5560875626" />
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/6ede52cb-77f2-4f98-b913-30f78b8fe311" />
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/55c5d965-494c-44c5-b1e8-e36e168bcdc3" />
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/5cd19c91-e9fc-428b-a658-75ffc8c8cd74" />
-<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/7c8bdecc-938a-482a-af6e-91956b968271" />
-
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/fd806a22-3daa-42af-8010-77b6fd13247f" />
+<img width="781" height="438" alt="Screenshot From 2026-08-17 13-24-26" src="https://github.com/user-attachments/assets/bec27afb-49ba-4f6e-973b-e1f5aa807866" />
+<img width="781" height="438" alt="Screenshot From 2026-08-17 13-24-31" src="https://github.com/user-attachments/assets/e4187acf-6823-4427-a090-3db93627136f" />
+<img width="773" height="433" alt="Screenshot From 2026-08-17 13-24-38" src="https://github.com/user-attachments/assets/78029799-3e7f-4287-b6e5-2ac00c8f56f8" />
+<img width="760" height="493" alt="Screenshot From 2026-08-17 13-24-47" src="https://github.com/user-attachments/assets/cbc11872-a83f-4a40-bcbb-0eded7bb8c44" />
+<img width="772" height="416" alt="Screenshot From 2026-08-17 13-24-55" src="https://github.com/user-attachments/assets/98eb22cd-b82d-4292-bc2a-acc220c52bdc" />
+<img width="777" height="460" alt="Screenshot From 2026-08-17 13-25-04" src="https://github.com/user-attachments/assets/7ec5ebb8-c19a-4a99-a005-869cfaf4caef" />
+<img width="777" height="460" alt="Screenshot From 2026-08-17 13-25-09" src="https://github.com/user-attachments/assets/abd9a76d-1a95-4908-99d0-481d622cce09" />
+<img width="777" height="460" alt="Screenshot From 2026-08-17 13-25-15" src="https://github.com/user-attachments/assets/e69a7dfd-58b6-494a-a2cd-50607e34b05b" />
 
 
 2. Jira Project & Issue Tracking
+<img width="772" height="417" alt="Screenshot From 2026-08-17 13-29-52" src="https://github.com/user-attachments/assets/3d8eb5f0-6197-47c3-9ceb-225df7c037f7" />
+<img width="772" height="398" alt="Screenshot From 2026-08-17 13-30-01" src="https://github.com/user-attachments/assets/fe23b94c-52e6-43ae-8074-fd5010984019" />
+<img width="772" height="398" alt="Screenshot From 2026-08-17 13-30-05" src="https://github.com/user-attachments/assets/238b869e-f67c-4913-9047-af273a502bb8" />
 
 
 
