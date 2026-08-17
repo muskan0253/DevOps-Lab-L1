@@ -26,7 +26,7 @@ Docker & Jenkins.pdf
 <img width="667" height="376" alt="Screenshot From 2026-08-17 13-19-34" src="https://github.com/user-attachments/assets/ad0059fb-dcad-42a3-8c7d-d229bd4e1ea6" />
 <img width="692" height="432" alt="image" src="https://github.com/user-attachments/assets/3766bf5f-94f2-4971-8606-e58b388b763d" />
 
-
+ 
 
 <img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/039605f5-36de-4f87-82e6-c63544245c9d" />
 <img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/327ace01-cab6-46e1-bc08-daeabdadfedb" />
