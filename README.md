@@ -13,10 +13,11 @@ Contents
 Repository Structure
 
 Git Workflow.pdf
-
 Jira & GitHub.pdf
-
 Docker & Jenkins.pdf
+
+
+1. Git Workflow & Collaboration
 <img width="692" height="432" alt="Screenshot From 2026-08-17 13-20-05" src="https://github.com/user-attachments/assets/e190f68b-faf4-4310-917a-5ad6dc0725bb" />
 <img width="692" height="432" alt="Screenshot From 2026-08-17 13-20-01" src="https://github.com/user-attachments/assets/2124f7cf-c754-4f14-82dc-46130c1bc461" />
 <img width="671" height="372" alt="Screenshot From 2026-08-17 13-19-54" src="https://github.com/user-attachments/assets/3c8508ad-880d-4670-b2b6-8a921fb1ff29" />
@@ -27,7 +28,7 @@ Docker & Jenkins.pdf
 <img width="692" height="432" alt="image" src="https://github.com/user-attachments/assets/3766bf5f-94f2-4971-8606-e58b388b763d" />
 
  
-
+3. Docker & Jenkins
 <img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/039605f5-36de-4f87-82e6-c63544245c9d" />
 <img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/327ace01-cab6-46e1-bc08-daeabdadfedb" />
 <img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/ccb83cec-46d8-4d38-97e8-720cdadb2449" />
@@ -37,6 +38,11 @@ Docker & Jenkins.pdf
 <img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/55c5d965-494c-44c5-b1e8-e36e168bcdc3" />
 <img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/5cd19c91-e9fc-428b-a658-75ffc8c8cd74" />
 <img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/7c8bdecc-938a-482a-af6e-91956b968271" />
+
+
+
+2. Jira Project & Issue Tracking
+
 
 
 
