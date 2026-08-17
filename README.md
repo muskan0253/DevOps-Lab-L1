@@ -27,4 +27,17 @@ Docker & Jenkins.pdf
 <img width="692" height="432" alt="image" src="https://github.com/user-attachments/assets/3766bf5f-94f2-4971-8606-e58b388b763d" />
 
 
-All screenshots and outputs are attached.
+
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/039605f5-36de-4f87-82e6-c63544245c9d" />
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/327ace01-cab6-46e1-bc08-daeabdadfedb" />
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/ccb83cec-46d8-4d38-97e8-720cdadb2449" />
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/c78cf119-bafb-4342-82a6-d550486c7424" />
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/9b9555a2-80b9-4361-948a-3e5560875626" />
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/6ede52cb-77f2-4f98-b913-30f78b8fe311" />
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/55c5d965-494c-44c5-b1e8-e36e168bcdc3" />
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/5cd19c91-e9fc-428b-a658-75ffc8c8cd74" />
+<img width="715" height="452" alt="Screenshot From 2026-08-17 13-24-10" src="https://github.com/user-attachments/assets/7c8bdecc-938a-482a-af6e-91956b968271" />
+
+
+
+
